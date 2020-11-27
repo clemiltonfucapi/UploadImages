@@ -1,0 +1,2 @@
+rootProject.name='UploadImages2'
+include ':app'
